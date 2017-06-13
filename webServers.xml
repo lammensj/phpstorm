@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0d1ad6b-d14b-4794-9836-e2c68b6dc968" name="Knauf WEB" url="http://knauf_website.dev.intracto.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2392f873-efbb-4dd3-8476-4197d575c9a7" name="Teamleader" url="http://teamleader.dev.intracto.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
