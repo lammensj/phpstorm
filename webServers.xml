@@ -7,6 +7,9 @@
       <webServer id="2392f873-efbb-4dd3-8476-4197d575c9a7" name="Teamleader" url="http://teamleader.dev.intracto.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d65cd355-1cb5-4069-8066-9dd8d2781e53" name="Knauf PIM" url="http://knauf_pim.dev.intracto.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
