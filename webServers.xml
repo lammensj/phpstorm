@@ -10,6 +10,9 @@
       <webServer id="d65cd355-1cb5-4069-8066-9dd8d2781e53" name="Knauf PIM" url="http://knauf_pim.dev.intracto.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="51d55724-771b-49d4-a7c5-20f572a5c1be" name="smash-dash.dev" url="http://smash-dash.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
