@@ -9,6 +9,8 @@
       <mapping ext="install" type="PHP" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
