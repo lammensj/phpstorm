@@ -2,15 +2,13 @@
   <component name="MessDetector">
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="$USER_HOME$/.composer/vendor/phpmd/phpmd/src/bin/phpmd" />
-      <phpmd_by_interpreter interpreter_id="f5baf59a-d052-4a23-96cf-b5d58d12b9d8" tool_path="/home/vagrant/.composer/vendor/bin/phpmd" />
-      <phpmd_by_interpreter interpreter_id="a1d10873-60bd-4bd8-9e93-5d57f7e79e76" tool_path="/home/vagrant/.composer/vendor/bin/phpmd" />
+      <phpmd_by_interpreter interpreter_id="7d06d098-5e7a-4b60-af37-4208be520f69" tool_path="/home/vagrant/.composer/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/squizlabs/php_codesniffer/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="f5baf59a-d052-4a23-96cf-b5d58d12b9d8" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="a1d10873-60bd-4bd8-9e93-5d57f7e79e76" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="7d06d098-5e7a-4b60-af37-4208be520f69" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
