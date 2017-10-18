@@ -8,7 +8,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="bd246eb6-91b7-4fd8-a3fa-b6409905568e" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="8a64d6eb-18bc-46d7-8b99-6106e15524f8" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="8a64d6eb-18bc-46d7-8b99-6106e15524f8" standards="MySource;PEAR;PSR1;PSR2;Squiz;Symfony;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
