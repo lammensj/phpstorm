@@ -9,13 +9,6 @@
       <phpcs_by_interpreter interpreter_id="8a64d6eb-18bc-46d7-8b99-6106e15524f8" standards="MySource;PEAR;PSR1;PSR2;Squiz;Symfony;Zend" tool_path="/home/vagrant/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="vagrant:///Users/jasperlammens/Workspace/projects/symfony/vball_info_mngr/usr/bin/php" id="8a64d6eb-18bc-46d7-8b99-6106e15524f8" name="VIM" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Workspace/projects/symfony/vball_info_mngr" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="VIM">
