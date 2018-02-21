@@ -25,6 +25,7 @@
       <mask>*.twig</mask>
       <mask>*.y</mask>
       <mask>*.yml</mask>
+      <mask>field.field*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
