@@ -4,6 +4,9 @@
       <webServer id="2104e003-da55-40b0-80ba-270297b9f1f4" name="Websitebarometer-frontend" url="http://wbf.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d86a806c-47d8-42d7-a840-41320ce892da" name="VDEX" url="http://vdex.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
