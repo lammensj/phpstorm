@@ -7,6 +7,9 @@
       <webServer id="d86a806c-47d8-42d7-a840-41320ce892da" name="VDEX" url="http://vdex.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d1d910ac-fdc1-4326-92e9-4dc2c4b6eac3" name="Mobly" url="http://mobly.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
