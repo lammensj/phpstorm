@@ -10,6 +10,9 @@
       <webServer id="d1d910ac-fdc1-4326-92e9-4dc2c4b6eac3" name="Mobly" url="http://mobly.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="13dcf268-cbff-48cb-ba66-1148ca8c5642" name="Harol - Web" url="http://web.harol.digiti.be">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
