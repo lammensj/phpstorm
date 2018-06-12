@@ -13,6 +13,9 @@
       <webServer id="13dcf268-cbff-48cb-ba66-1148ca8c5642" name="Harol - Web" url="http://web.harol.digiti.be">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e8b2b3fc-da45-4dc9-83bf-f025d649f5a4" name="Fusion" url="http://fusion.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
