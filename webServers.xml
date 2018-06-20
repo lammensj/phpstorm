@@ -16,6 +16,9 @@
       <webServer id="e8b2b3fc-da45-4dc9-83bf-f025d649f5a4" name="Fusion" url="http://fusion.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8bffa0fd-c6ea-4394-bfd9-55db17cb6a18" name="Harol - HaDEX" url="http://hadex.harol.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
