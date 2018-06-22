@@ -19,6 +19,9 @@
       <webServer id="8bffa0fd-c6ea-4394-bfd9-55db17cb6a18" name="Harol - HaDEX" url="http://hadex.harol.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9294e2f0-9f03-4c44-b551-a406984e6fa2" name="Harol - ColorCup Backend" url="http://colorcup.harol.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
