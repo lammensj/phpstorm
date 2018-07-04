@@ -2575,9 +2575,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="1366dee7-c980-4785-9928-7686b23d631a" load_method="CUSTOM_LOADER" custom_loader_path="/vagrant/htdocs/vendor/autoload.php" phpunit_phar_path="/vagrant/htdocs/vendor/autoload.php" />
-    </phpunit_settings>
-  </component>
 </application>
