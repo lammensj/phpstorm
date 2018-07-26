@@ -4,7 +4,7 @@
       <phpmd_by_interpreter interpreter_id="7c8724e0-bb7d-47b1-a0d6-6379bc0a6877" tool_path="/var/www/app/htdocs/vendor/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="89115086-a64c-468a-972a-2afea4f14816" tool_path="/var/www/app/htdocs/vendor/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="e258bc1d-3df3-4175-9544-1aa0b9f8936a" tool_path="/var/www/app/htdocs/vendor/bin/phpmd" />
-      <phpmd_by_interpreter interpreter_id="c959608e-5554-4e63-b747-44bc88a859c9" tool_path="/vagrant/vendor/bin/phpmd" />
+      <phpmd_by_interpreter interpreter_id="c959608e-5554-4e63-b747-44bc88a859c9" tool_path="/vagrant/htdocs/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
@@ -12,7 +12,7 @@
       <phpcs_by_interpreter interpreter_id="7c8724e0-bb7d-47b1-a0d6-6379bc0a6877" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/app/htdocs/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="89115086-a64c-468a-972a-2afea4f14816" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/app/htdocs/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="e258bc1d-3df3-4175-9544-1aa0b9f8936a" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/app/htdocs/vendor/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="c959608e-5554-4e63-b747-44bc88a859c9" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/vagrant/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="c959608e-5554-4e63-b747-44bc88a859c9" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/vagrant/htdocs/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
