@@ -22,6 +22,9 @@
       <webServer id="9294e2f0-9f03-4c44-b551-a406984e6fa2" name="Harol - ColorCup Backend" url="http://colorcup.harol.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b0a0a1bc-1871-4ad5-96d7-1f27184d0b0d" name="Drisag" url="http://drisag.dev.digiti.be">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

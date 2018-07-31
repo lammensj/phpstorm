@@ -1,5 +1,6 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <phpmd_by_interpreter interpreter_id="7c8724e0-bb7d-47b1-a0d6-6379bc0a6877" tool_path="/var/www/app/htdocs/vendor/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="89115086-a64c-468a-972a-2afea4f14816" tool_path="/var/www/app/htdocs/vendor/bin/phpmd" />
@@ -8,6 +9,7 @@
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="7c8724e0-bb7d-47b1-a0d6-6379bc0a6877" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/app/htdocs/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="89115086-a64c-468a-972a-2afea4f14816" standards="Drupal;DrupalPractice;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/var/www/app/htdocs/vendor/bin/phpcs" />
