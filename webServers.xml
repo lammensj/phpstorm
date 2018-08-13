@@ -25,6 +25,9 @@
       <webServer id="b0a0a1bc-1871-4ad5-96d7-1f27184d0b0d" name="Drisag" url="http://drisag.dev.digiti.be">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7871bde9-8fcd-4849-bc3a-b64ba2720a74" name="the-mansion" url="https://koren45.duckdns.org">
+        <fileTransfer port="0" mountedRoot="/Volumes/share/the-mansion" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
