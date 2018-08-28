@@ -3279,4 +3279,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="c959608e-5554-4e63-b747-44bc88a859c9" load_method="PHPUNIT_PHAR" configuration_file_path="/vagrant/htdocs/phpunit.xml.dist" custom_loader_path="/vagrant/htdocs/vendor/autoload.php" phpunit_phar_path="/vagrant/htdocs/bin/.phpunit/phpunit-6.5/phpunit" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
