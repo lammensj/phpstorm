@@ -1,8 +1,32 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d69e8237-1001-4a17-af34-37f3cee2586a" name="VIM" url="http://vim.dev">
+      <webServer id="2104e003-da55-40b0-80ba-270297b9f1f4" name="Websitebarometer-frontend" url="http://wbf.dev.resilient.com">
         <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d86a806c-47d8-42d7-a840-41320ce892da" name="VDEX" url="http://vdex.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="d1d910ac-fdc1-4326-92e9-4dc2c4b6eac3" name="Mobly" url="http://mobly.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="13dcf268-cbff-48cb-ba66-1148ca8c5642" name="Harol - Web" url="http://web.harol.digiti.be">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e8b2b3fc-da45-4dc9-83bf-f025d649f5a4" name="Fusion" url="http://fusion.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="8bffa0fd-c6ea-4394-bfd9-55db17cb6a18" name="Harol - HaDEX" url="http://hadex.harol.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9294e2f0-9f03-4c44-b551-a406984e6fa2" name="Harol - ColorCup Backend" url="http://colorcup.harol.dev.resilient.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b0a0a1bc-1871-4ad5-96d7-1f27184d0b0d" name="Drisag" url="http://drisag.dev.digiti.be">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="7871bde9-8fcd-4849-bc3a-b64ba2720a74" name="the-mansion" url="https://koren45.duckdns.org">
+        <fileTransfer port="0" mountedRoot="/Volumes/share/the-mansion" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
